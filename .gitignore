@@ -1,3 +1,5 @@
 # Godot 4+ specific ignores
 .godot/
 Art/Color Palette Dataset/
+'Information Sources and Reading'/
+Information Sources and Reading/ 
