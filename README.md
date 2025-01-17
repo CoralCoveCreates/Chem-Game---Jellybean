@@ -1,4 +1,4 @@
-## Chem Game "Jellybean"
+## Chem Game "Tidal Orbit"
 
 This is a chemistry simulator game designed to teach through first year college chem! 
 
