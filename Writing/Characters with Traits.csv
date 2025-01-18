@@ -1,109 +1,109 @@
-firstName,lastName,regionFN,nationalityFN,nationalityLN,genderFN,genderF,genderM,sexual_orientation,age
-Nsonowa,Obeng,Africa,Akan,,w,1,0,idk,12
-Faɗimatu,Ibrahim,Africa,Hausa,,w,1,0,,67
-Mumbi,Anyango,Africa,Kikuyu,,w,1,0,,2
-Eshe,Bahati,Africa,Swahili,,w,1,0,,18
-Zuberi,Hinga,Africa,Swahili,,m,0,1,idk,45
-Katlego,Tshireletso,Africa,Tswana,,m,0,1,idk,65
-Mahamadou,Keïta,Africa,Western African,,m,0,1,,12
-Jahid,Najjar,Central Asia,Arabic/Bengali,Arabic,m,0,1,Gay/Lesbian,22
-Asal,Banerjee,Central Asia,Arabic/Persian/Punjabi/Urdu/Bengali,,w,1,0,,30
-Musa,Saad,Central Asia,Arabic/Turkish/Hausa/Urdu/Bengali/Indonesian/Malay,Arabic/Malay,m,0,1,,41
-Qamar,Mustafa,Central Asia,Arabic/Urdu,,w,1,0,idk,16
-Zubaida,Khalil,Central Asia,Arabic/Urdu,,w,1,0,,7
-Aqil,Khan,Central Asia,Arabic/urdu,Urdu/Pashto/Bengali,m,0,1,,25
-Talib,Abbassi,Central Asia,Arabic/Urdu,,m,0,1,,67
-Nadia,Begum,Central Asia,Arabic/urdu/bengali/indonesian/malay,,w,1,0,idk,25
-Aisha,Kadyrova,Central Asia,Arabic/Urdu/Hausa/Swahili/Kazakh/African American,Kazakh,w,1,0,,74
-Tapan,Gupta,Central Asia,bengali/odia/assamese,,m,0,1,Gay/Lesbian,31
-Akash,Sharma,Central Asia,Hindi/Marathi/Bengali,Hindi/ Marathi/ Bengali/ Assamese/ Gujarati/ Telugu/ Kannada/ Malayalam/ Tamil/ Nepali,m,0,1,Bisexual,51
-Rani,Joshi,Central Asia,Hindi/Marathi/odia,Hindi/Marathi/Gujarati/Nepali,w,1,0,,30
-Aysultan,Kadyrov,Central Asia,Kazakh,"Kyrgyz,Kazakh,Chechen",m,0,1,,40
-Viraj,Chaudhari,Central Asia,Marathai/Gujarati,Marathi/Gujarati,m,0,1,,30
-Shahnaz,Jamshidi,Central Asia,persian/Arabic/Urdu,Persian,w,1,0,idk,21
-Reza,Afshari,Central Asia,Persian/Indonesian/Bengali,"Persian, Urdu, Bengali",m,0,1,,26
-Subramaniam,Iyer,Central Asia,Tamil ,"Tamil (Brahmin caste, Iyer subcaste)",m,0,1,,54
-Bala,Bredin,Central Asia,Tamil/Telugu/Hindi,,w,1,0,idk,92
-Feyza,Değirmenci,Central Asia,Turkish,,w,1,0,,43
-Nejla,Kaya,Central Asia,Turkish,,w,1,0,Bisexual,10
-Ru,Chen,East Asia,Chinese,,w,1,0,Bisexual,65
-Wei,Chia,East Asia,Chinese,,w,1,0,,75
-Xin,Du,East Asia,Chinese,,w,1,0,,0
-Tāo ,Jiang,East Asia,Chinese,,w,1,0,,82
-Yáng ,Lam,East Asia,Chinese,,m,0,1,Bisexual,61
-Guiying,Liang,East Asia,Chinese,,m,0,1,,34
-Shun,Lu,East Asia,Chinese,,m,0,1,idk,37
-Yin,Ng,East Asia,Chinese,,m,0,1,,11
-Aoi,Hiramatsu,East Asia,Japanese,,w,1,0,,7
-Ema,Mochizuki,East Asia,Japanese,,w,1,0,,38
-Hiroko,Nagasawa,East Asia,Japanese,,w,1,0,idk,30
-Noa,Okazaki,East Asia,Japanese,,w,1,0,,70
-Nobuko,Seki,East Asia,Japanese,,w,1,0,,57
-Jun'ichi,Kishimoto,East Asia,Japanese,,m,0,1,,74
-Kazuki,Aikawa,East Asia,Japanese,,m,0,1,,68
-Keita,Hagihara,East Asia,Japanese,,m,0,1,,18
-Nobuyuki,Ikeda,East Asia,Japanese,,m,0,1,,38
-Toshirō,Katō,East Asia,Japanese,,m,0,1,,22
-Tsuneo,Miura,East Asia,Japanese,,m,0,1,idk,6
-Eun-sook,Yun,East Asia,Korean,,w,1,0,Gay/Lesbian,53
-Gergana,Mateeva,Europe,Bulgarian,f,w,1,0,,60
-Guus,Van Herten,Europe,Dutch,,m,0,1,,40
-Delilah,Alden,Europe,English,,w,1,0,,6
-Isaiah,Norris,Europe,English,English/Scottish,m,0,1,,44
-Lindsay,Christinsen,Europe,English,,m,0,1,,5
-Arron,Wade,Europe,English,,m,0,1,,23
-Caleb,Garret,Europe,"English, Biblical",,m,0,1,,14
-Martin,Fay,Europe,"English, French, German, Swedish, Norwegian, Danish, Estonian, Russian, Romanian, Czech, Slovak, Slovene, Croatian, Serbian, Hungarian, Bulgarian, Macedonian, Finnish",English/French,m,0,1,,62
-Esther,Savatier,Europe,"English, French, Spanish, Dutch, German, Danish, Norwegian, Swedish, Jewish, Biblical, Biblical Latin, Biblical Greek",,w,1,0,,21
-Rachel,Janssen,Europe,"English, Hebrew, French, Dutch, German, Biblical, Biblical Latin, Biblical Hebrew [1]",,w,1,0,,25
-Dylan,Keller,Europe,"English, Hebrew, French, German, Swedish, Norwegian, Danish, Polish, Czech, Slovak, Spanish, Portuguese, Catalan, Romanian, Slovene, Bulgarian, Macedonian, Croatian, Finnish, Estonian, Armenian, Georgian, Biblical, Biblical Greek [1]",,m,0,1,,40
-Mònica,Zini,Europe,English/ Italian/ Romanian/ Swedish/ Norwegian/ Danish/ Dutch/ Finnish/ Late Roman,,w,1,0,,58
-Nia,Morgan,Europe,English/Welsh,,w,1,0,,12
-Jennah,Babineaux,Europe,French,,w,1,0,,11
-﻿Eustache,Olivier,Europe,French,,m,0,1,,45
-Jordane,Dufour,Europe,French,,m,0,1,idk,15
-Stefan,Sörensen,Europe,"German, Dutch, Swedish, Norwegian, Danish, English, Biblical, Biblical Latin",,m,0,1,,8
-Rebekka,Næss,Europe,German/ Danish/ Norwegian/ Icelandic/ Faroese/ Finnish/ Dutch (Rare),,w,1,0,,2
-Maura,Abano,Europe,Irish/English/Italian/Spanish/Protuguese/Late Roman,,w,1,0,Asexual,62
-Angiola,Nardi,Europe,Italian,,w,1,0,Asexual,8
-Miguel,Aiza,Europe,Italian ,,m,0,1,idk,37
-Lucia,Romano,Europe,Italian/ German/ Dutch/ English/ Swedish/ Norwegian/ Danish/ Romanian/ Slovak/ Ancient Roman,,w,1,0,Bisexual,70
-Lorenzo,Maria,Europe,Italian/ Spanish/ Portuguese/ Romanian/ French/ Slovak/ Polish/ Finnish/ Swedish/ Norwegian/ Danish/ German/ Dutch/ Greek/ Georgian/ English/ Russian/ Bulgarian/ Ancient Roman,"Italian, Portuguese",m,0,1,,54
-Duilio,Ventura,Europe,Italian/Spanish,"Italian, Spanish, Portuguese, Catalan",m,0,1,,4
-Jadvyga,Petrauskaitė,Europe,Lithuanian,unmarried woman,w,1,0,,38
-Piotr,Jagoda,Europe,Polish/Belarusian,Polish,m,0,1,,7
-Andréia,Messana,Europe,Portuguese,"Italian, Portuguese",w,1,0,,44
-Toma,Valentinova,Europe,Russian,f,w,1,0,,57
-Veronika,Orlova,Europe,Russian,f,w,1,0,,15
-Anton,Lagunov,Europe,Russian,m ,m,0,1,,80
-Agneta,Blomqvist,Europe,Swedish,,w,1,0,Bisexual,65
-Danne,Ljungborg,Europe,Swedish,,m,0,1,,23
-Mykola,Kravets,Europe,Ukrainian,,m,0,1,,75
-Dina,Vik,Europe/ Central Asia,"Norwegian, Danish, Swedish, Latvian, Russian, Ukrainian, Dutch, Italian, Spanish, Hebrew, Biblical Hebrew [1], Biblical Greek, Biblical Latin, Italian, Portuguese, Spanish, Dutch, English, Arabic",,w,1,0,,47
-Bruno,Araya,South America,German/ Italian/ Spanish/ Portuguese/ French/ Croatian/ Polish/ Czech/ Slovak/ Latvian/ Germanic [1],Spanish,m,0,1,Pansexual,13
-Liliana,Arroyo,South America,Italian/ Spanish/ Portuguese/ Romanian/ Polish/ Czech/ English,Spanish,w,1,0,Bisexual,37
-Elba,Figueroa,South America,Spanish,Spanish,w,1,0,Other,21
-Eustaquia,Rosario,South America,spanish,Spanish,w,1,0,,47
-Yesenia,Benítez,South America,Spanish,Spanish,w,1,0,idk,1
-Abilio,Pascual,South America,Spanish,Spanish,m,0,1,,57
-Íñigo,Quixano,South America,spanish,Spanish,m,0,1,,54
-José,Rivas,South America,Spanish (Americanized/ Filipinized),Spanish,w,1,0,,14
-Ernesto,Rodriquez,South America,Spanish (Latin American/ Modern)/ Portuguese (Brazilian/ Modern),Spanish,m,0,1,,15
-Nazaret,Contreras,South America,Spanish/ Armenian,Spanish,w,1,0,idk,55
-Hugo,Salcedo,South America,Spanish/ Portuguese/ English/ Dutch/ German/ French/ Swedish/ Norwegian/ Danish/ Finnish/ Germanic [1],Spanish,m ,0,0,,0
-Leandro,Trujillo,South America,Spanish/ Portuguese/ Italian,Spanish,m,0,1,,32
-Flor,Teodoro,South America,Spanish/Portuguese,Portuguese,w,1,0,Bisexual,30
-Jairo,Calvo,South America,Spanish/Portuguese,Spanish/Italian/Portuguese,m,0,1,Pansexual,2
-Faris,Lai,South East Asia,Arabic/ Bosnian/ Malay/ Indonesian,,m,0,1,,0
-Zulfikar,Bayu,South East Asia,Arabic/ Urdu/ Indonesian,,m,0,1,,4
-Faiz,Tan,South East Asia,Arabic/Malay/Indonesian,,m,0,1,,76
-Cinta,Baskoro,South East Asia,Indonesian,,w,1,0,,54
-Dwi,Gunadi,South East Asia,Indonesian,,w,1,0,,41
- Junaidi,Surya,South East Asia,Indonesian,,m,0,1,,55
-Cahaya,Nuraini,South East Asia,Indonesian/Malay,,w,1,0,,21
-Maimunah,Setiawan,South East Asia,Malay/Indonesian,,w,1,0,,42
-Suriya,Bunnag,South East Asia,Thai/Tamil,Thai,m,0,1,,28
-Chanté,Harrell,North America,USA,English,w,1,0,,27
-Keshawn,Lowell,North America,USA,English,m,0,1,Bisexual,27
-Javon,Sandford,North America,USA,English,m,0,1,,15
-Tanika ,Adams,North America,USA,English,w,1,0,Gay/Lesbian,45
+firstName,lastName,regionFN,languageFN,languageLN,nationality,genderFN,genderF,genderM,averageHeightForCountryMetricCM,STDHeightForCountryMetricCM,sexual_orientation,age,visual_impairment,handedness,heightCM
+Nsonowa,Obeng,Africa,Akan,," Ghana, Ivory Coast and Togo",w,1,0,158.5,7.11,,30,,Left handed,166
+Elba,Figueroa,South America,Spanish,Spanish,Argentina,w,1,0,161.2,7.11,,43,,,169
+Asal,Banerjee,Central Asia,Arabic/Persian/Punjabi/Urdu/Bengali,,Bangladesh,w,1,0,150.3,7.11,,16,,,153
+Flor,Teodoro,South America,Spanish/Portuguese,Portuguese,Bolivia,w,1,0,155.6,7.11,idk,3,,,161
+Gergana,Mateeva,Europe,Bulgarian,w,Bulgaria,w,1,0,164.6,7.11,,7,,,158
+Caleb,Garret,Europe,"English, Biblical",,Canada,m,0,1,178.7,7.42,,83,,,193
+Martin,Fay,Europe,"English, French, German, Swedish, Norwegian, Danish, Estonian, Russian, Romanian, Czech, Slovak, Slovene, Croatian, Serbian, Hungarian, Bulgarian, Macedonian, Finnish",English/French,Canada,m,0,1,178.7,7.42,,28,,,181
+Eustaquia,Rosario,South America,spanish,Spanish,Chile,w,1,0,159.4,7.11,idk,45,,,164
+Wei,Chia,East Asia,Chinese,,China: Guangdong,w,1,0,163.5,7.11,Asexual,18,,,154
+Yáng ,Lam,East Asia,Chinese,,China: Heibei,m,0,1,175.7,7.42,,7,,,191
+Yin,Ng,East Asia,Chinese,,China: heilongjiang,m,0,1,175.7,7.42,,33,,,171
+Xin,Du,East Asia,Chinese,,China: Hunan,w,1,0,163.5,7.11,,33,,,156
+Guiying,Liang,East Asia,Chinese,,China: Jiangxi,m,0,1,175.7,7.42,Bisexual,1,,,179
+Ru,Chen,East Asia,Chinese,,China: Shandong,w,1,0,163.5,7.11,,44,,,164
+Tāo ,Jiang,East Asia,Chinese,,China: Shanghai,w,1,0,163.5,7.11,,56,,,182
+Shun,Lu,East Asia,Chinese,,China: Zhejiang,m,0,1,175.7,7.42,,20,,Left handed,184
+Abilio,Pascual,South America,Spanish,Spanish,Colombia,m,0,1,171.9,7.42,Other,5,,,162
+Nazaret,Contreras,South America,Spanish/ Armenian,Spanish,Costa Rica,w,1,0,160.4,7.11,Bisexual,15,,,155
+Stefan,Sörensen,Europe,"German, Dutch, Swedish, Norwegian, Danish, English, Biblical, Biblical Latin",,Denmark,m,0,1,181.9,7.42,,11,,,170
+Yesenia,Benítez,South America,Spanish,Spanish,Ecuador,w,1,0,155.2,7.11,,14,,,156
+José,Rivas,South America,Spanish (Americanized/ Filipinized),Spanish,EL Salvador,w,1,0,156.4,7.11,Bisexual,43,,,159
+Delilah,Alden,Europe,English,,England,w,1,0,163.9,7.11,Gay/Lesbian,6,,,162
+﻿Eustache,Olivier,Europe,French,,France,m,0,1,178.6,7.42,,56,,,184
+Jordane,Dufour,Europe,French,,France,m,0,1,178.6,7.42,,18,,,179
+Jennah,Babineaux,Europe,French,,France,w,1,0,164.5,7.11,,56,,,179
+Ernesto,Rodriquez,South America,Spanish (Latin American/ Modern)/ Portuguese (Brazilian/ Modern),Spanish,Honduras,m,0,1,169.6,7.42,,14,,,159
+Viraj,Chaudhari,Central Asia,Marathai/Gujarati,Marathi/Gujarati,India: Gujarat,m,0,1,166.5,7.42,idk,68,,,177
+Akash,Sharma,Central Asia,Hindi/Marathi/Bengali,Hindi/ Marathi/ Bengali/ Assamese/ Gujarati/ Telugu/ Kannada/ Malayalam/ Tamil/ Nepali,India: Madhya Pradesh,m,0,1,166.5,7.42,,72,,,174
+Rani,Joshi,Central Asia,Hindi/Marathi/odia,Hindi/Marathi/Gujarati/Nepali,India: Maharashtra,w,1,0,155.2,7.11,,14,,,158
+Tapan,Gupta,Central Asia,bengali/odia/assamese,,India: Odisha,m,0,1,166.5,7.42,,42,,,164
+Subramaniam,Iyer,Central Asia,Tamil ,"Tamil (Brahmin caste, Iyer subcaste)",India:Tamilnadu,m,0,1,166.5,7.42,Asexual,17,,,183
+Zulfikar,Bayu,South East Asia,Arabic/ Urdu/ Indonesian,,Indonesia,m,0,1,166.3,7.42,,32,,,168
+Faiz,Tan,South East Asia,Arabic/Malay/Indonesian,,Indonesia,m,0,1,166.3,7.42,,7,,,155
+ Junaidi,Surya,South East Asia,Indonesian,,Indonesia,m,0,1,166.3,7.42,Gay/Lesbian,45,,,163
+Cinta,Baskoro,South East Asia,Indonesian,,Indonesia,w,1,0,154.4,7.11,,20,,,140
+Dwi,Gunadi,South East Asia,Indonesian,,Indonesia,w,1,0,154.4,7.11,,67,Glasses/Contacts,,156
+Aqil,Khan,Central Asia,Arabic/urdu,Urdu/Pashto/Bengali,Iran,m,0,1,175.6,7.42,Gay/Lesbian,0,,,167
+Reza,Afshari,Central Asia,Persian/Indonesian/Bengali,"Persian, Urdu, Bengali",Iran,m,0,1,175.6,7.42,,10,,,177
+Shahnaz,Jamshidi,Central Asia,persian/Arabic/Urdu,Persian,Iran,w,1,0,161.2,7.11,,72,,Left handed,161
+Nadia,Jassim,Central Asia,Arabic/urdu/bengali/indonesian/malay,,Iraq,w,1,0,161.2,7.11,idk,63,,,159
+Miguel,Aiza,Europe,Italian ,,Italy,m,0,1,174.4,7.42,,15,,,170
+Maura,Abano,Europe,Irish/English/Italian/Spanish/Protuguese/Late Roman,,Italy,w,1,0,161.8,7.11,,76,,,156
+Angiola,Nardi,Europe,Italian,,Italy,w,1,0,161.8,7.11,Pansexual,37,,,166
+Lucia,Romano,Europe,Italian/ German/ Dutch/ English/ Swedish/ Norwegian/ Danish/ Romanian/ Slovak/ Ancient Roman,,Italy,w,1,0,161.8,7.11,Gay/Lesbian,1,,,163
+Toshirō,Katō,East Asia,Japanese,,Japan: Chubu,m,0,1,172.1,7.42,,48,,,164
+Hiroko,Nagasawa,East Asia,Japanese,,Japan: Chubu,w,1,0,158.5,7.11,,55,,,170
+Keita,Hagihara,East Asia,Japanese,,Japan: Chugoku,m,0,1,172.1,7.42,,32,,,172
+Jun'ichi,Kishimoto,East Asia,Japanese,,Japan: Hokkaido,m,0,1,172.1,7.42,,61,,,172
+Kazuki,Aikawa,East Asia,Japanese,,Japan: Kansai,m,0,1,172.1,7.42,,30,Glasses/Contacts,,165
+Tsuneo,Miura,East Asia,Japanese,,Japan: Kansai,m,0,1,172.1,7.42,,25,,,162
+Nobuyuki,Ikeda,East Asia,Japanese,,Japan: Kanto,m,0,1,172.1,7.42,idk,0,,,169
+Nobuko,Seki,East Asia,Japanese,,Japan: Kanto,w,1,0,158.5,7.11,,45,,,158
+Noa,Okazaki,East Asia,Japanese,,Japan: Kyushu,w,1,0,158.5,7.11,Bisexual,72,,,150
+Aoi,Hiramatsu,East Asia,Japanese,,Japan: Shikoku,w,1,0,158.5,7.11,,10,Glasses/Contacts,,158
+Ema,Mochizuki,East Asia,Japanese,,Japan: Tohoku,w,1,0,158.5,7.11,,43,,,177
+Talib,Abbassi,Central Asia,Arabic/Urdu,,Jordan,m,0,1,174.8,7.42,idk,14,,Left handed,163
+Aisha,Kadyrova,Central Asia,Arabic/Urdu/Hausa/Swahili/Kazakh/African American,Kazakh,Kasakhstan,w,1,0,161.7,7.11,,65,,,163
+Aysultan,Kadyrov,Central Asia,Kazakh,"Kyrgyz,Kazakh,Chechen",Kazakhstan,m,0,1,175.5,7.42,,57,,Left handed,177
+Mumbi,Anyango,Africa,Kikuyu,,Kenya,w,1,0,159.4,7.11,,4,,,162
+Jadvyga,Petrauskaitė,Europe,Lithuanian,unmarried woman,Lithuania,w,1,0,167.6,7.11,,82,,,158
+Faris,Lai,South East Asia,Arabic/ Bosnian/ Malay/ Indonesian,,Malaysia,m,0,1,169.2,7.42,,63,,,183
+Cahaya,Nuraini,South East Asia,Indonesian/Malay,,Malaysia,w,1,0,157.1,7.11,,35,,,151
+Maimunah,Setiawan,South East Asia,Malay/Indonesian,,Malaysia,w,1,0,157.1,7.11,,23,,,153
+Mahamadou,Keïta,Africa,Western African,,Mali,m,0,1,171.3,7.42,idk,1,,,172
+Guus,Van Herten,Europe,Dutch,,Netherlands,m,0,1,183.8,7.42,Bisexual,51,,,191
+Íñigo,Quixano,South America,spanish,Spanish,Nicaragua,m,0,1,169.9,7.42,,37,Glasses/Contacts,,159
+Faɗimatu,Ibrahim,Africa,Hausa,,"Nigeria, Niger",w,1,0,157.8,7.11,,7,,,158
+Rebekka,Næss,Europe,German/ Danish/ Norwegian/ Icelandic/ Faroese/ Finnish/ Dutch (Rare),,Norway,w,1,0,166.4,7.11,,40,,,164
+Qamar,Mustafa,Central Asia,Arabic/Urdu,,Pakistan,w,1,0,154.8,7.11,idk,77,,,155
+Hugo,Salcedo,South America,Spanish/ Portuguese/ English/ Dutch/ German/ French/ Swedish/ Norwegian/ Danish/ Finnish/ Germanic [1],Spanish,Panama,m ,0,0,170.2,7.42,,0,,,185
+Bruno,Araya,South America,German/ Italian/ Spanish/ Portuguese/ French/ Croatian/ Polish/ Czech/ Slovak/ Latvian/ Germanic [1],Spanish,Paraguay,m,0,1,173.8,7.42,,21,,,193
+Leandro,Trujillo,South America,Spanish/ Portuguese/ Italian,Spanish,Peru,m,0,1,166.8,7.42,,56,,,167
+Piotr,Jagoda,Europe,Polish/Belarusian,Polish,Poland,m,0,1,180.7,7.42,idk,20,,,173
+Lorenzo,Maria,Europe,Italian/ Spanish/ Portuguese/ Romanian/ French/ Slovak/ Polish/ Finnish/ Swedish/ Norwegian/ Danish/ German/ Dutch/ Greek/ Georgian/ English/ Russian/ Bulgarian/ Ancient Roman,"Italian, Portuguese",Portugal,m,0,1,174.4,7.42,idk,58,,,180
+Andréia,Messana,Europe,Portuguese,"Italian, Portuguese",Portugal,w,1,0,161.2,7.11,,38,,,173
+Anton,Lagunov,Europe,Russian,m ,Russia,m,0,1,176.6,7.42,,14,,Left handed,177
+Toma,Valentinova,Europe,Russian,w,Russia,w,1,0,164.5,7.11,,25,,,167
+Veronika,Orlova,Europe,Russian,w,Russia,w,1,0,164.5,7.11,,25,,,173
+Jahid,Najjar,Central Asia,Arabic/Bengali,Arabic,Saudi Arabia,m,0,1,170.7,7.42,Bisexual,8,,,166
+Zubaida,Khalil,Central Asia,Arabic/Urdu,,Saudi Arabia,w,1,0,158.8,7.11,idk,3,,,155
+Isaiah,Norris,Europe,English,English/Scottish,Scottland,m,0,1,178.2,7.42,,63,,Left handed,166
+Katlego,Tshireletso,Africa,Tswana,,South Africa,m,0,1,169.6,7.42,,43,Other visual impairment,Left handed,173
+Eun-sook,Yun,East Asia,Korean,,South Korea,w,1,0,163.2,7.11,,21,,,176
+Duilio,Ventura,Europe,Italian/Spanish,"Italian, Spanish, Portuguese, Catalan",Spain,m,0,1,176.1,7.42,idk,45,,,173
+Bala,Bredin,Central Asia,Tamil/Telugu/Hindi,,Sri Lanka,w,1,0,155.9,7.11,Bisexual,0,,,159
+Danne,Ljungborg,Europe,Swedish,,Sweden,m,0,1,180.5,7.42,Bisexual,62,,,187
+Agneta,Blomqvist,Europe,Swedish,,Sweden,w,1,0,166.7,7.11,,91,,,175
+Musa,Saad,Central Asia,Arabic/Turkish/Hausa/Urdu/Bengali/Indonesian/Malay,Arabic/Malay,Syria,m,0,1,165.5,7.42,idk,75,,,169
+Zuberi,Hinga,Africa,Swahili,,Tanzania,m,0,1,167,7.42,idk,24,,,161
+Eshe,Bahati,Africa,Swahili,,Tanzania,w,1,0,156.6,7.11,,33,,,160
+Suriya,Bunnag,South East Asia,Thai/Tamil,Thai,Thai,m,0,1,171.6,7.42,,52,,,167
+Feyza,Değirmenci,Central Asia,Turkish,,Turkey,w,1,0,161.8,7.11,,28,,,166
+Nejla,Kaya,Central Asia,Turkish,,Turkey,w,1,0,161.8,7.11,,25,,Left handed,160
+Mykola,Kravets,Europe,Ukrainian,,Ukraine,m,0,1,181,7.42,,22,,,182
+Liliana,Arroyo,South America,Italian/ Spanish/ Portuguese/ Romanian/ Polish/ Czech/ English,Spanish,Uruguay,w,1,0,161.6,7.11,Pansexual,13,,,161
+Lindsay,Christinsen,Europe,English,,USA,m,0,1,176.9,7.42,,34,,,181
+Arron,Wade,Europe,English,,USA,m,0,1,176.9,7.42,,38,,,173
+Dylan,Keller,Europe,"English, Hebrew, French, German, Swedish, Norwegian, Danish, Polish, Czech, Slovak, Spanish, Portuguese, Catalan, Romanian, Slovene, Bulgarian, Macedonian, Croatian, Finnish, Estonian, Armenian, Georgian, Biblical, Biblical Greek [1]",,USA,m,0,1,176.9,7.42,,27,,,173
+Keshawn,Lowell,North America,USA,English,USA,m,0,1,176.9,7.42,,48,,,185
+Javon,Sandford,North America,USA,English,USA,m,0,1,176.9,7.42,,71,,,183
+Esther,Savatier,Europe,"English, French, Spanish, Dutch, German, Danish, Norwegian, Swedish, Jewish, Biblical, Biblical Latin, Biblical Greek",,USA,w,1,0,163.3,7.11,,10,,,166
+Rachel,Janssen,Europe,"English, Hebrew, French, Dutch, German, Biblical, Biblical Latin, Biblical Hebrew [1]",,USA,w,1,0,163.3,7.11,,68,Glasses/Contacts,Left handed,166
+Mònica,Zini,Europe,English/ Italian/ Romanian/ Swedish/ Norwegian/ Danish/ Dutch/ Finnish/ Late Roman,,USA,w,1,0,163.3,7.11,,60,,Left handed,162
+Chanté,Harrell,North America,USA,English,USA,w,1,0,163.3,7.11,,51,,,164
+Tanika ,Adams,North America,USA,English,USA,w,1,0,163.3,7.11,,52,,Left handed,161
+Jairo,Calvo,South America,Spanish/Portuguese,Spanish/Italian/Portuguese,Venezuela,m,0,1,173.5,7.42,,46,,,168
+Nia,Morgan,Europe,English/Welsh,,Wales,w,1,0,163.9,7.11,Bisexual,30,,,160
+Dina,Vik,Europe/ Central Asia,"Norwegian, Danish, Swedish, Latvian, Russian, Ukrainian, Dutch, Italian, Spanish, Hebrew, Biblical Hebrew [1], Biblical Greek, Biblical Latin, Italian, Portuguese, Spanish, Dutch, English, Arabic",,Norway,w,1,0,166.4,7.11,,57,,,160

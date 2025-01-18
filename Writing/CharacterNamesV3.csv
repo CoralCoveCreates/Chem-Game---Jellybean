@@ -1,0 +1,109 @@
+﻿firstName,lastName,regionFN,languageFN,languageLN,nationality,genderFN,genderF,genderM,averageHeightForCountryMetricCM,STDHeightForCountryMetricCM
+Nsonowa,Obeng,Africa,Akan,," Ghana, Ivory Coast and Togo",w,1,0,158.5,7.11
+Elba,Figueroa,South America,Spanish,Spanish,Argentina,w,1,0,161.2,7.11
+Asal,Banerjee,Central Asia,Arabic/Persian/Punjabi/Urdu/Bengali,,Bangladesh,w,1,0,150.3,7.11
+Flor,Teodoro,South America,Spanish/Portuguese,Portuguese,Bolivia,w,1,0,155.6 ,7.11
+Gergana,Mateeva,Europe,Bulgarian,w,Bulgaria,w,1,0,164.6,7.11
+Caleb,Garret,Europe,"English, Biblical",,Canada,m,0,1,178.7,7.42
+Martin,Fay,Europe,"English, French, German, Swedish, Norwegian, Danish, Estonian, Russian, Romanian, Czech, Slovak, Slovene, Croatian, Serbian, Hungarian, Bulgarian, Macedonian, Finnish",English/French,Canada,m,0,1,178.7,7.42
+Eustaquia,Rosario,South America,spanish,Spanish,Chile,w,1,0,159.4,7.11
+Wei,Chia,East Asia,Chinese,,China: Guangdong,w,1,0,163.5,7.11
+Yáng ,Lam,East Asia,Chinese,,China: Heibei,m,0,1,175.7,7.42
+Yin,Ng,East Asia,Chinese,,China: heilongjiang,m,0,1,175.7,7.42
+Xin,Du,East Asia,Chinese,,China: Hunan,w,1,0,163.5,7.11
+Guiying,Liang,East Asia,Chinese,,China: Jiangxi,m,0,1,175.7,7.42
+Ru,Chen,East Asia,Chinese,,China: Shandong,w,1,0,163.5,7.11
+Tāo ,Jiang,East Asia,Chinese,,China: Shanghai,w,1,0,163.5,7.11
+Shun,Lu,East Asia,Chinese,,China: Zhejiang,m,0,1,175.7,7.42
+Abilio,Pascual,South America,Spanish,Spanish,Colombia,m,0,1,171.9,7.42
+Nazaret,Contreras,South America,Spanish/ Armenian,Spanish,Costa Rica,w,1,0,160.4 ,7.11
+Stefan,Sörensen,Europe,"German, Dutch, Swedish, Norwegian, Danish, English, Biblical, Biblical Latin",,Denmark,m,0,1,181.9,7.42
+Yesenia,Benítez,South America,Spanish,Spanish,Ecuador,w,1,0,155.2,7.11
+José,Rivas,South America,Spanish (Americanized/ Filipinized),Spanish,EL Salvador,w,1,0,156.4,7.11
+Delilah,Alden,Europe,English,,England,w,1,0,163.9 ,7.11
+﻿Eustache,Olivier,Europe,French,,France,m,0,1,178.6,7.42
+Jordane,Dufour,Europe,French,,France,m,0,1,178.6,7.42
+Jennah,Babineaux,Europe,French,,France,w,1,0,164.5,7.11
+Ernesto,Rodriquez,South America,Spanish (Latin American/ Modern)/ Portuguese (Brazilian/ Modern),Spanish,Honduras,m,0,1,169.6,7.42
+Viraj,Chaudhari,Central Asia,Marathai/Gujarati,Marathi/Gujarati,India: Gujarat,m,0,1,166.5,7.42
+Akash,Sharma,Central Asia,Hindi/Marathi/Bengali,Hindi/ Marathi/ Bengali/ Assamese/ Gujarati/ Telugu/ Kannada/ Malayalam/ Tamil/ Nepali,India: Madhya Pradesh,m,0,1,166.5,7.42
+Rani,Joshi,Central Asia,Hindi/Marathi/odia,Hindi/Marathi/Gujarati/Nepali,India: Maharashtra,w,1,0,155.2,7.11
+Tapan,Gupta,Central Asia,bengali/odia/assamese,,India: Odisha,m,0,1,166.5,7.42
+Subramaniam,Iyer,Central Asia,Tamil ,"Tamil (Brahmin caste, Iyer subcaste)",India:Tamilnadu,m,0,1,166.5,7.42
+Zulfikar,Bayu,South East Asia,Arabic/ Urdu/ Indonesian,,Indonesia,m,0,1,166.3,7.42
+Faiz,Tan,South East Asia,Arabic/Malay/Indonesian,,Indonesia,m,0,1,166.3,7.42
+ Junaidi,Surya,South East Asia,Indonesian,,Indonesia,m,0,1,166.3,7.42
+Cinta,Baskoro,South East Asia,Indonesian,,Indonesia,w,1,0,154.4,7.11
+Dwi,Gunadi,South East Asia,Indonesian,,Indonesia,w,1,0,154.4,7.11
+Aqil,Khan,Central Asia,Arabic/urdu,Urdu/Pashto/Bengali,Iran,m,0,1,175.6,7.42
+Reza,Afshari,Central Asia,Persian/Indonesian/Bengali,"Persian, Urdu, Bengali",Iran,m,0,1,175.6,7.42
+Shahnaz,Jamshidi,Central Asia,persian/Arabic/Urdu,Persian,Iran,w,1,0,161.2,7.11
+Nadia,Jassim,Central Asia,Arabic/urdu/bengali/indonesian/malay,,Iraq,w,1,0,161.2,7.11
+Miguel,Aiza,Europe,Italian ,,Italy,m,0,1,174.4,7.42
+Maura,Abano,Europe,Irish/English/Italian/Spanish/Protuguese/Late Roman,,Italy,w,1,0,161.8,7.11
+Angiola,Nardi,Europe,Italian,,Italy,w,1,0,161.8,7.11
+Lucia,Romano,Europe,Italian/ German/ Dutch/ English/ Swedish/ Norwegian/ Danish/ Romanian/ Slovak/ Ancient Roman,,Italy,w,1,0,161.8,7.11
+Toshirō,Katō,East Asia,Japanese,,Japan: Chubu,m,0,1,172.1,7.42
+Hiroko,Nagasawa,East Asia,Japanese,,Japan: Chubu,w,1,0,158.5,7.11
+Keita,Hagihara,East Asia,Japanese,,Japan: Chugoku,m,0,1,172.1,7.42
+Jun'ichi,Kishimoto,East Asia,Japanese,,Japan: Hokkaido,m,0,1,172.1,7.42
+Kazuki,Aikawa,East Asia,Japanese,,Japan: Kansai,m,0,1,172.1,7.42
+Tsuneo,Miura,East Asia,Japanese,,Japan: Kansai,m,0,1,172.1,7.42
+Nobuyuki,Ikeda,East Asia,Japanese,,Japan: Kanto,m,0,1,172.1,7.42
+Nobuko,Seki,East Asia,Japanese,,Japan: Kanto,w,1,0,158.5,7.11
+Noa,Okazaki,East Asia,Japanese,,Japan: Kyushu,w,1,0,158.5,7.11
+Aoi,Hiramatsu,East Asia,Japanese,,Japan: Shikoku,w,1,0,158.5,7.11
+Ema,Mochizuki,East Asia,Japanese,,Japan: Tohoku,w,1,0,158.5,7.11
+Talib,Abbassi,Central Asia,Arabic/Urdu,,Jordan,m,0,1,174.8,7.42
+Aisha,Kadyrova,Central Asia,Arabic/Urdu/Hausa/Swahili/Kazakh/African American,Kazakh,Kasakhstan,w,1,0,161.7 ,7.11
+Aysultan,Kadyrov,Central Asia,Kazakh,"Kyrgyz,Kazakh,Chechen",Kazakhstan,m,0,1,175.5,7.42
+Mumbi,Anyango,Africa,Kikuyu,,Kenya,w,1,0,159.4,7.11
+Jadvyga,Petrauskaitė,Europe,Lithuanian,unmarried woman,Lithuania,w,1,0,167.6,7.11
+Faris,Lai,South East Asia,Arabic/ Bosnian/ Malay/ Indonesian,,Malaysia,m,0,1,169.2,7.42
+Cahaya,Nuraini,South East Asia,Indonesian/Malay,,Malaysia,w,1,0,157.1,7.11
+Maimunah,Setiawan,South East Asia,Malay/Indonesian,,Malaysia,w,1,0,157.1,7.11
+Mahamadou,Keïta,Africa,Western African,,Mali,m,0,1,171.3,7.42
+Guus,Van Herten,Europe,Dutch,,Netherlands,m,0,1,183.8,7.42
+Íñigo,Quixano,South America,spanish,Spanish,Nicaragua,m,0,1,169.9,7.42
+Faɗimatu,Ibrahim,Africa,Hausa,,"Nigeria, Niger",w,1,0,157.8,7.11
+Rebekka,Næss,Europe,German/ Danish/ Norwegian/ Icelandic/ Faroese/ Finnish/ Dutch (Rare),,Norway,w,1,0,166.4,7.11
+Qamar,Mustafa,Central Asia,Arabic/Urdu,,Pakistan,w,1,0,154.8,7.11
+Hugo,Salcedo,South America,Spanish/ Portuguese/ English/ Dutch/ German/ French/ Swedish/ Norwegian/ Danish/ Finnish/ Germanic [1],Spanish,Panama,m ,0,0,170.2,7.42
+Bruno,Araya,South America,German/ Italian/ Spanish/ Portuguese/ French/ Croatian/ Polish/ Czech/ Slovak/ Latvian/ Germanic [1],Spanish,Paraguay,m,0,1,173.8,7.42
+Leandro,Trujillo,South America,Spanish/ Portuguese/ Italian,Spanish,Peru,m,0,1,166.8,7.42
+Piotr,Jagoda,Europe,Polish/Belarusian,Polish,Poland,m,0,1,180.7,7.42
+Lorenzo,Maria,Europe,Italian/ Spanish/ Portuguese/ Romanian/ French/ Slovak/ Polish/ Finnish/ Swedish/ Norwegian/ Danish/ German/ Dutch/ Greek/ Georgian/ English/ Russian/ Bulgarian/ Ancient Roman,"Italian, Portuguese",Portugal,m,0,1,174.4,7.42
+Andréia,Messana,Europe,Portuguese,"Italian, Portuguese",Portugal,w,1,0,161.2,7.11
+Anton,Lagunov,Europe,Russian,m ,Russia,m,0,1,176.6 ,7.42
+Toma,Valentinova,Europe,Russian,w,Russia,w,1,0,164.5,7.11
+Veronika,Orlova,Europe,Russian,w,Russia,w,1,0,164.5,7.11
+Jahid,Najjar,Central Asia,Arabic/Bengali,Arabic,Saudi Arabia,m,0,1,170.7,7.42
+Zubaida,Khalil,Central Asia,Arabic/Urdu,,Saudi Arabia,w,1,0,158.8,7.11
+Isaiah,Norris,Europe,English,English/Scottish,Scottland,m,0,1,178.2,7.42
+Katlego,Tshireletso,Africa,Tswana,,South Africa,m,0,1,169.6,7.42
+Eun-sook,Yun,East Asia,Korean,,South Korea,w,1,0,163.2,7.11
+Duilio,Ventura,Europe,Italian/Spanish,"Italian, Spanish, Portuguese, Catalan",Spain,m,0,1,176.1,7.42
+Bala,Bredin,Central Asia,Tamil/Telugu/Hindi,,Sri Lanka,w,1,0,155.9,7.11
+Danne,Ljungborg,Europe,Swedish,,Sweden,m,0,1,180.5,7.42
+Agneta,Blomqvist,Europe,Swedish,,Sweden,w,1,0,166.7,7.11
+Musa,Saad,Central Asia,Arabic/Turkish/Hausa/Urdu/Bengali/Indonesian/Malay,Arabic/Malay,Syria,m,0,1,165.5,7.42
+Zuberi,Hinga,Africa,Swahili,,Tanzania,m,0,1,167,7.42
+Eshe,Bahati,Africa,Swahili,,Tanzania,w,1,0,156.6,7.11
+Suriya,Bunnag,South East Asia,Thai/Tamil,Thai,Thai,m,0,1,171.6,7.42
+Feyza,Değirmenci,Central Asia,Turkish,,Turkey,w,1,0,161.8,7.11
+Nejla,Kaya,Central Asia,Turkish,,Turkey,w,1,0,161.8,7.11
+Mykola,Kravets,Europe,Ukrainian,,Ukraine,m,0,1,181,7.42
+Liliana,Arroyo,South America,Italian/ Spanish/ Portuguese/ Romanian/ Polish/ Czech/ English,Spanish,Uruguay,w,1,0,161.6,7.11
+Lindsay,Christinsen,Europe,English,,USA,m,0,1,176.9 ,7.42
+Arron,Wade,Europe,English,,USA,m,0,1,176.9 ,7.42
+Dylan,Keller,Europe,"English, Hebrew, French, German, Swedish, Norwegian, Danish, Polish, Czech, Slovak, Spanish, Portuguese, Catalan, Romanian, Slovene, Bulgarian, Macedonian, Croatian, Finnish, Estonian, Armenian, Georgian, Biblical, Biblical Greek [1]",,USA,m,0,1,176.9 ,7.42
+Keshawn,Lowell,North America,USA,English,USA,m,0,1,176.9 ,7.42
+Javon,Sandford,North America,USA,English,USA,m,0,1,176.9 ,7.42
+Esther,Savatier,Europe,"English, French, Spanish, Dutch, German, Danish, Norwegian, Swedish, Jewish, Biblical, Biblical Latin, Biblical Greek",,USA,w,1,0,163.3,7.11
+Rachel,Janssen,Europe,"English, Hebrew, French, Dutch, German, Biblical, Biblical Latin, Biblical Hebrew [1]",,USA,w,1,0,163.3,7.11
+Mònica,Zini,Europe,English/ Italian/ Romanian/ Swedish/ Norwegian/ Danish/ Dutch/ Finnish/ Late Roman,,USA,w,1,0,163.3,7.11
+Chanté,Harrell,North America,USA,English,USA,w,1,0,163.3,7.11
+Tanika ,Adams,North America,USA,English,USA,w,1,0,163.3,7.11
+Jairo,Calvo,South America,Spanish/Portuguese,Spanish/Italian/Portuguese,Venezuela,m,0,1,173.5,7.42
+Nia,Morgan,Europe,English/Welsh,,Wales,w,1,0,163.9,7.11
+Dina,Vik,Europe/ Central Asia,"Norwegian, Danish, Swedish, Latvian, Russian, Ukrainian, Dutch, Italian, Spanish, Hebrew, Biblical Hebrew [1], Biblical Greek, Biblical Latin, Italian, Portuguese, Spanish, Dutch, English, Arabic",,Norway,w,1,0,166.4,7.11
