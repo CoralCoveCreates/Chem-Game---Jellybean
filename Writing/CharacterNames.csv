@@ -1,109 +1,109 @@
 ﻿firstName,lastName,regionFN,nationalityFN,nationalityLN,genderFN,genderF,genderM
-Nsonowa,Obeng,Africa,Akan,,f,1,0
-Faɗimatu,Ibrahim,Africa,Hausa,,f,1,0
-Mumbi,Anyango,Africa,Kikuyu,,f,1,0
-Eshe,Bahati,Africa,Swahili,,f,1,0
+Nsonowa,Obeng,Africa,Akan,,w,1,0
+Faɗimatu,Ibrahim,Africa,Hausa,,w,1,0
+Mumbi,Anyango,Africa,Kikuyu,,w,1,0
+Eshe,Bahati,Africa,Swahili,,w,1,0
 Zuberi,Hinga,Africa,Swahili,,m,0,1
 Katlego,Tshireletso,Africa,Tswana,,m,0,1
 Mahamadou,Keïta,Africa,Western African,,m,0,1
 Jahid,Najjar,Central Asia,Arabic/Bengali,Arabic,m,0,1
-Asal,Banerjee,Central Asia,Arabic/Persian/Punjabi/Urdu/Bengali,,f,1,0
+Asal,Banerjee,Central Asia,Arabic/Persian/Punjabi/Urdu/Bengali,,w,1,0
 Musa,Saad,Central Asia,Arabic/Turkish/Hausa/Urdu/Bengali/Indonesian/Malay,Arabic/Malay,m,0,1
-Qamar,Mustafa,Central Asia,Arabic/Urdu,,f,1,0
-Zubaida,Khalil,Central Asia,Arabic/Urdu,,f,1,0
+Qamar,Mustafa,Central Asia,Arabic/Urdu,,w,1,0
+Zubaida,Khalil,Central Asia,Arabic/Urdu,,w,1,0
 Aqil,Khan,Central Asia,Arabic/urdu,Urdu/Pashto/Bengali,m,0,1
 Talib,Abbassi,Central Asia,Arabic/Urdu,,m,0,1
-Nadia,Begum,Central Asia,Arabic/urdu/bengali/indonesian/malay,,f,1,0
-Aisha,Kadyrova,Central Asia,Arabic/Urdu/Hausa/Swahili/Kazakh/African American,Kazakh,f,1,0
+Nadia,Begum,Central Asia,Arabic/urdu/bengali/indonesian/malay,,w,1,0
+Aisha,Kadyrova,Central Asia,Arabic/Urdu/Hausa/Swahili/Kazakh/African American,Kazakh,w,1,0
 Tapan,Gupta,Central Asia,bengali/odia/assamese,,m,0,1
 Akash,Sharma,Central Asia,Hindi/Marathi/Bengali,Hindi/ Marathi/ Bengali/ Assamese/ Gujarati/ Telugu/ Kannada/ Malayalam/ Tamil/ Nepali,m,0,1
-Rani,Joshi,Central Asia,Hindi/Marathi/odia,Hindi/Marathi/Gujarati/Nepali,f,1,0
+Rani,Joshi,Central Asia,Hindi/Marathi/odia,Hindi/Marathi/Gujarati/Nepali,w,1,0
 Aysultan,Kadyrov,Central Asia,Kazakh,"Kyrgyz,Kazakh,Chechen",m,0,1
 Viraj,Chaudhari,Central Asia,Marathai/Gujarati,Marathi/Gujarati,m,0,1
-Shahnaz,Jamshidi,Central Asia,persian/Arabic/Urdu,Persian,f,1,0
+Shahnaz,Jamshidi,Central Asia,persian/Arabic/Urdu,Persian,w,1,0
 Reza,Afshari,Central Asia,Persian/Indonesian/Bengali,"Persian, Urdu, Bengali",m,0,1
 Subramaniam,Iyer,Central Asia,Tamil ,"Tamil (Brahmin caste, Iyer subcaste)",m,0,1
-Bala,Bredin,Central Asia,Tamil/Telugu/Hindi,,f,1,0
-Feyza,Değirmenci,Central Asia,Turkish,,f,1,0
-Nejla,Kaya,Central Asia,Turkish,,f,1,0
-Ru,Chen,East Asia,Chinese,,f,1,0
-Wei,Chia,East Asia,Chinese,,f,1,0
-Xin,Du,East Asia,Chinese,,f,1,0
-Tāo ,Jiang,East Asia,Chinese,,f,1,0
+Bala,Bredin,Central Asia,Tamil/Telugu/Hindi,,w,1,0
+Feyza,Değirmenci,Central Asia,Turkish,,w,1,0
+Nejla,Kaya,Central Asia,Turkish,,w,1,0
+Ru,Chen,East Asia,Chinese,,w,1,0
+Wei,Chia,East Asia,Chinese,,w,1,0
+Xin,Du,East Asia,Chinese,,w,1,0
+Tāo ,Jiang,East Asia,Chinese,,w,1,0
 Yáng ,Lam,East Asia,Chinese,,m,0,1
 Guiying,Liang,East Asia,Chinese,,m,0,1
 Shun,Lu,East Asia,Chinese,,m,0,1
 Yin,Ng,East Asia,Chinese,,m,0,1
-Aoi,Hiramatsu,East Asia,Japanese,,f,1,0
-Ema,Mochizuki,East Asia,Japanese,,f,1,0
-Hiroko,Nagasawa,East Asia,Japanese,,f,1,0
-Noa,Okazaki,East Asia,Japanese,,f,1,0
-Nobuko,Seki,East Asia,Japanese,,f,1,0
+Aoi,Hiramatsu,East Asia,Japanese,,w,1,0
+Ema,Mochizuki,East Asia,Japanese,,w,1,0
+Hiroko,Nagasawa,East Asia,Japanese,,w,1,0
+Noa,Okazaki,East Asia,Japanese,,w,1,0
+Nobuko,Seki,East Asia,Japanese,,w,1,0
 Jun'ichi,Kishimoto,East Asia,Japanese,,m,0,1
 Kazuki,Aikawa,East Asia,Japanese,,m,0,1
 Keita,Hagihara,East Asia,Japanese,,m,0,1
 Nobuyuki,Ikeda,East Asia,Japanese,,m,0,1
 Toshirō,Katō,East Asia,Japanese,,m,0,1
 Tsuneo,Miura,East Asia,Japanese,,m,0,1
-Eun-sook,Yun,East Asia,Korean,,f,1,0
-Gergana,Mateeva,Europe,Bulgarian,f,f,1,0
+Eun-sook,Yun,East Asia,Korean,,w,1,0
+Gergana,Mateeva,Europe,Bulgarian,f,w,1,0
 Guus,Van Herten,Europe,Dutch,,m,0,1
-Delilah,Alden,Europe,English,,f,1,0
+Delilah,Alden,Europe,English,,w,1,0
 Isaiah,Norris,Europe,English,English/Scottish,m,0,1
 Lindsay,Christinsen,Europe,English,,m,0,1
 Arron,Wade,Europe,English,,m,0,1
 Caleb,Garret,Europe,"English, Biblical",,m,0,1
 Martin,Fay,Europe,"English, French, German, Swedish, Norwegian, Danish, Estonian, Russian, Romanian, Czech, Slovak, Slovene, Croatian, Serbian, Hungarian, Bulgarian, Macedonian, Finnish",English/French,m,0,1
-Esther,Savatier,Europe,"English, French, Spanish, Dutch, German, Danish, Norwegian, Swedish, Jewish, Biblical, Biblical Latin, Biblical Greek",,f,1,0
-Rachel,Janssen,Europe,"English, Hebrew, French, Dutch, German, Biblical, Biblical Latin, Biblical Hebrew [1]",,f,1,0
+Esther,Savatier,Europe,"English, French, Spanish, Dutch, German, Danish, Norwegian, Swedish, Jewish, Biblical, Biblical Latin, Biblical Greek",,w,1,0
+Rachel,Janssen,Europe,"English, Hebrew, French, Dutch, German, Biblical, Biblical Latin, Biblical Hebrew [1]",,w,1,0
 Dylan,Keller,Europe,"English, Hebrew, French, German, Swedish, Norwegian, Danish, Polish, Czech, Slovak, Spanish, Portuguese, Catalan, Romanian, Slovene, Bulgarian, Macedonian, Croatian, Finnish, Estonian, Armenian, Georgian, Biblical, Biblical Greek [1]",,m,0,1
-Mònica,Zini,Europe,English/ Italian/ Romanian/ Swedish/ Norwegian/ Danish/ Dutch/ Finnish/ Late Roman,,f,1,0
-Nia,Morgan,Europe,English/Welsh,,f,1,0
-Jennah,Babineaux,Europe,French,,f,1,0
+Mònica,Zini,Europe,English/ Italian/ Romanian/ Swedish/ Norwegian/ Danish/ Dutch/ Finnish/ Late Roman,,w,1,0
+Nia,Morgan,Europe,English/Welsh,,w,1,0
+Jennah,Babineaux,Europe,French,,w,1,0
 ﻿Eustache,Olivier,Europe,French,,m,0,1
 Jordane,Dufour,Europe,French,,m,0,1
 Stefan,Sörensen,Europe,"German, Dutch, Swedish, Norwegian, Danish, English, Biblical, Biblical Latin",,m,0,1
-Rebekka,Næss,Europe,German/ Danish/ Norwegian/ Icelandic/ Faroese/ Finnish/ Dutch (Rare),,f,1,0
-Maura,Abano,Europe,Irish/English/Italian/Spanish/Protuguese/Late Roman,,f,1,0
-Angiola,Nardi,Europe,Italian,,f,1,0
+Rebekka,Næss,Europe,German/ Danish/ Norwegian/ Icelandic/ Faroese/ Finnish/ Dutch (Rare),,w,1,0
+Maura,Abano,Europe,Irish/English/Italian/Spanish/Protuguese/Late Roman,,w,1,0
+Angiola,Nardi,Europe,Italian,,w,1,0
 Miguel,Aiza,Europe,Italian ,,m,0,1
-Lucia,Romano,Europe,Italian/ German/ Dutch/ English/ Swedish/ Norwegian/ Danish/ Romanian/ Slovak/ Ancient Roman,,f,1,0
+Lucia,Romano,Europe,Italian/ German/ Dutch/ English/ Swedish/ Norwegian/ Danish/ Romanian/ Slovak/ Ancient Roman,,w,1,0
 Lorenzo,Maria,Europe,Italian/ Spanish/ Portuguese/ Romanian/ French/ Slovak/ Polish/ Finnish/ Swedish/ Norwegian/ Danish/ German/ Dutch/ Greek/ Georgian/ English/ Russian/ Bulgarian/ Ancient Roman,"Italian, Portuguese",m,0,1
 Duilio,Ventura,Europe,Italian/Spanish,"Italian, Spanish, Portuguese, Catalan",m,0,1
-Jadvyga,Petrauskaitė,Europe,Lithuanian,unmarried woman,f,1,0
+Jadvyga,Petrauskaitė,Europe,Lithuanian,unmarried woman,w,1,0
 Piotr,Jagoda,Europe,Polish/Belarusian,Polish,m,0,1
-Andréia,Messana,Europe,Portuguese,"Italian, Portuguese",f,1,0
-Toma,Valentinova,Europe,Russian,f,f,1,0
-Veronika,Orlova,Europe,Russian,f,f,1,0
+Andréia,Messana,Europe,Portuguese,"Italian, Portuguese",w,1,0
+Toma,Valentinova,Europe,Russian,f,w,1,0
+Veronika,Orlova,Europe,Russian,f,w,1,0
 Anton,Lagunov,Europe,Russian,m ,m,0,1
-Agneta,Blomqvist,Europe,Swedish,,f,1,0
+Agneta,Blomqvist,Europe,Swedish,,w,1,0
 Danne,Ljungborg,Europe,Swedish,,m,0,1
 Mykola,Kravets,Europe,Ukrainian,,m,0,1
-Dina,Vik,Europe/ Central Asia,"Norwegian, Danish, Swedish, Latvian, Russian, Ukrainian, Dutch, Italian, Spanish, Hebrew, Biblical Hebrew [1], Biblical Greek, Biblical Latin, Italian, Portuguese, Spanish, Dutch, English, Arabic",,f,1,0
+Dina,Vik,Europe/ Central Asia,"Norwegian, Danish, Swedish, Latvian, Russian, Ukrainian, Dutch, Italian, Spanish, Hebrew, Biblical Hebrew [1], Biblical Greek, Biblical Latin, Italian, Portuguese, Spanish, Dutch, English, Arabic",,w,1,0
 Bruno,Araya,South America,German/ Italian/ Spanish/ Portuguese/ French/ Croatian/ Polish/ Czech/ Slovak/ Latvian/ Germanic [1],Spanish,m,0,1
-Liliana,Arroyo,South America,Italian/ Spanish/ Portuguese/ Romanian/ Polish/ Czech/ English,Spanish,f,1,0
-Elba,Figueroa,South America,Spanish,Spanish,f,1,0
-Eustaquia,Rosario,South America,spanish,Spanish,f,1,0
-Yesenia,Benítez,South America,Spanish,Spanish,f,1,0
+Liliana,Arroyo,South America,Italian/ Spanish/ Portuguese/ Romanian/ Polish/ Czech/ English,Spanish,w,1,0
+Elba,Figueroa,South America,Spanish,Spanish,w,1,0
+Eustaquia,Rosario,South America,spanish,Spanish,w,1,0
+Yesenia,Benítez,South America,Spanish,Spanish,w,1,0
 Abilio,Pascual,South America,Spanish,Spanish,m,0,1
 Íñigo,Quixano,South America,spanish,Spanish,m,0,1
-José,Rivas,South America,Spanish (Americanized/ Filipinized),Spanish,f,1,0
+José,Rivas,South America,Spanish (Americanized/ Filipinized),Spanish,w,1,0
 Ernesto,Rodriquez,South America,Spanish (Latin American/ Modern)/ Portuguese (Brazilian/ Modern),Spanish,m,0,1
-Nazaret,Contreras,South America,Spanish/ Armenian,Spanish,f,1,0
+Nazaret,Contreras,South America,Spanish/ Armenian,Spanish,w,1,0
 Hugo,Salcedo,South America,Spanish/ Portuguese/ English/ Dutch/ German/ French/ Swedish/ Norwegian/ Danish/ Finnish/ Germanic [1],Spanish,m ,0,0
 Leandro,Trujillo,South America,Spanish/ Portuguese/ Italian,Spanish,m,0,1
-Flor,Teodoro,South America,Spanish/Portuguese,Portuguese,f,1,0
+Flor,Teodoro,South America,Spanish/Portuguese,Portuguese,w,1,0
 Jairo,Calvo,South America,Spanish/Portuguese,Spanish/Italian/Portuguese,m,0,1
 Faris,Lai,South East Asia,Arabic/ Bosnian/ Malay/ Indonesian,,m,0,1
 Zulfikar,Bayu,South East Asia,Arabic/ Urdu/ Indonesian,,m,0,1
 Faiz,Tan,South East Asia,Arabic/Malay/Indonesian,,m,0,1
-Cinta,Baskoro,South East Asia,Indonesian,,f,1,0
-Dwi,Gunadi,South East Asia,Indonesian,,f,1,0
+Cinta,Baskoro,South East Asia,Indonesian,,w,1,0
+Dwi,Gunadi,South East Asia,Indonesian,,w,1,0
  Junaidi,Surya,South East Asia,Indonesian,,m,0,1
-Cahaya,Nuraini,South East Asia,Indonesian/Malay,,f,1,0
-Maimunah,Setiawan,South East Asia,Malay/Indonesian,,f,1,0
+Cahaya,Nuraini,South East Asia,Indonesian/Malay,,w,1,0
+Maimunah,Setiawan,South East Asia,Malay/Indonesian,,w,1,0
 Suriya,Bunnag,South East Asia,Thai/Tamil,Thai,m,0,1
-Chanté,Harrell,North America,USA,English,f,1,0
+Chanté,Harrell,North America,USA,English,w,1,0
 Keshawn,Lowell,North America,USA,English,m,0,1
 Javon,Sandford,North America,USA,English,m,0,1
-Tanika ,Adams,North America,USA,English,f,1,0
+Tanika ,Adams,North America,USA,English,w,1,0

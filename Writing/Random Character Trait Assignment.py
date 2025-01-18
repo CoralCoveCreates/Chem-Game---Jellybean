@@ -21,7 +21,7 @@ def removeElementsFromList(takeOutList, mainList) -> list:
 
 def selectnFromList (n, listLen, ppl_list = []):
     # number of items
-    n = 10
+    #n = 10
 
     # determine which list to sample from
     if ppl_list == []:
@@ -34,7 +34,8 @@ def selectnFromList (n, listLen, ppl_list = []):
     UpdatedList = random.sample(tList, n)
 
     # sort list
-    orderedList = UpdatedList.sort()
+    UpdatedList.sort()
+    orderedList = UpdatedList
 
     # remove sampled items from main list
     if ppl_list != []:
@@ -53,7 +54,7 @@ def setSexualOrientation (percentage, orientation, df, ppl_list):
 
     n_people_w_orientation = int((number_of_ppl+1) * percentage)
 
-    (index_ppl_w_orientation, ppl_list) = selectnFromList(n_people_w_orientation, number_of_ppl, ppl_list)
+    (index_ppl_w_orientation, ppl_list) = selectnFromList(n= n_people_w_orientation, listLen=number_of_ppl, ppl_list=ppl_list)
 
     df.iloc[index_ppl_w_orientation,8] = orientation # column 8 is sexual_orientation
     
@@ -70,6 +71,11 @@ other_p= 0.01
 idk_p = 0.13
 heterosexual = 0.71
 
-(names_df, ppl_list) =  setSexualOrientation(gay_p,"Gay/Lesbian", df=names_df, ppl_list=[])
+(names_df, ppl_list) =  setSexualOrientation(gay_lesbian_p,"Gay/Lesbian", df=names_df, ppl_list=[])
+(names_df, ppl_list) =  setSexualOrientation(bisexual_p,"Bisexual", df=names_df, ppl_list=ppl_list)
+(names_df, ppl_list) =  setSexualOrientation(pansexual_p,"Pansexual", df=names_df, ppl_list=ppl_list)
+(names_df, ppl_list) =  setSexualOrientation(asexual_p,"Asexual", df=names_df, ppl_list=ppl_list)
+(names_df, ppl_list) =  setSexualOrientation(other_p,"Other", df=names_df, ppl_list=ppl_list)
+(names_df, ppl_list) =  setSexualOrientation(idk_p,"idk", df=names_df, ppl_list=ppl_list)
 
-names_df.head(20)
+names_df.to_csv('Characters with Orientation.csv', index=False)  
